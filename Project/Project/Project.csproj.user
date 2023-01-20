@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="After_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Approve_Bail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forgot_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="New_Prisoner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Release.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Request_Bail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="UsersDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

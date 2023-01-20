@@ -1,0 +1,19 @@
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.csproj.AssemblyReference.cache
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.csproj.SuggestedBindingRedirects.cache
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.About.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.After_Login.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.Approve Bail.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.Attendance.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.Forgot_User.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.JailBreak.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.LoginPage.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.New_Prisoner.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.Properties.Resources.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.Register_User.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.Release.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.ViewSearch.resources
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.csproj.GenerateResource.cache
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.GeneratedMSBuildEditorConfig.editorconfig
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.AssemblyInfoInputs.cache
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.AssemblyInfo.cs
+U:\5th SEMESTER\Visual Programming\Project\Project\obj\Debug\net472\Project.csproj.CoreCompileInputs.cache
